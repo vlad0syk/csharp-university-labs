@@ -7,4 +7,12 @@
   <Folder Name="/Lab02/Task01/">
     <Project Path="Lab02/Task01/Lab02.Task01.csproj" />
   </Folder>
+  <Folder Name="/Lab03/" />
+  <Folder Name="/Lab03/Task01/">
+    <Project Path="Lab03/Task01/Lab03.Task01.csproj" />
+  </Folder>
+  <Folder Name="/Lab04/" />
+  <Folder Name="/Lab04/Task01/">
+    <Project Path="Lab04/Task01/Lab04.Task01.csproj" />
+  </Folder>
 </Solution>
